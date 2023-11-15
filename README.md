@@ -23,7 +23,7 @@ you will find the following files:
     
     o	amz_ca_clean_8.csv: Clean Dataset
 
-•	Prjocet 4 - Product Demand Predictor Tool.pdf
+•	Project 4 - Product Demand Predictor Tool.pdf
 
 •	analysis_ML_model.ipynb 
 
