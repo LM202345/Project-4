@@ -2,6 +2,33 @@
 
 ### Project Title
 #### Product Demand Predictor Tool
+you will find the following files:
+
+•	in the ML folder:
+
+    o	Index.html
+  
+    o	styles.css
+  
+    o	script.js
+  
+    o	model_v8.h5 : machine learning model
+  
+    o	model_API.py: API in python that connects the machine learning model (.h5 file) with the html to deliver the prediction.
+
+
+•	In the Resources folder
+    
+    o	add amz_ca_total_products_data_processed.csv: Original Dataset
+    
+    o	amz_ca_clean_8.csv: Clean Dataset
+
+•	Prjocet 4 - Product Demand Predictor Tool.pdf
+
+•	analysis_ML_model.ipynb 
+
+•	exploration_and_cleanup.ipynb
+
 
 ### Description
 * Analysis question: How many units could a product sell on Amazon Canada?  
